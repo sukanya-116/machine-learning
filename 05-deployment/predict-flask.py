@@ -36,4 +36,5 @@ def predict_lead_scoring():
     return jsonify(result)
 
 if __name__ == "__main__":
+    # To run you would use waitress-serve --listen=0.0.0.0:9696 predict-flask:app
     app.run(debug=True, host='0.0.0.0', port=9696)

@@ -3,3 +3,5 @@ numpy
 seaborn
 scikit-learn
 tqdm
+pandas_ta
+matplotlib

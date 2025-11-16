@@ -5,3 +5,8 @@ scikit-learn
 tqdm
 pandas_ta
 matplotlib
+uvicorn
+fastapi
+xgboost
+requests
+kagglehub

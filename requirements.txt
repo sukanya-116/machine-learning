@@ -10,3 +10,7 @@ fastapi
 xgboost
 requests
 kagglehub
+torchsummary
+torchvision
+torch
+PIL
